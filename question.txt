@@ -1,32 +1,14 @@
-Question 1, Choice A B C D
+Pregunta 1 En que mes fue la independencia de la republica?, Escoge A Febrero B Marzo C Agosto D Noviembre
 A
-Question 2, Choice A B C D
+Pregunta 2 Como se llamo el grupo de jovenes que nos llevo al a independiencia?, Escoge A Triniaria B Los Restauradores C Los Trinitarios  D Ninguna de las anteriores
 C
-Question 3, Choice A B C D
-D
-Question 4, Choice A B C D
-B
-Question 5, Choice A B C D
+Pregunta 3 Cual fue el primer presidente constitucional ?, Escoge A Pedro Santana B Juan Pablo Duarte C Gregorio Billini D Jacinto de la Concha
 A
-Question 6, Choice A B C D
+Pregunta 4 En que mes empieza la temporada Ciclonica ?, Escoge A Agosot B Mayo C Julio D Septiembre
 B
-Question 7, Choice A B C D
+Pregunta 5 Quien es el padre de la patria ?, Choice A B C D
 A
-Question 8, Choice A B C D
-C
-Question 9, Choice A B C D
-D
-Question 10, Choice A B C D
+Pregunta 6 Cual es el cargo mas alto de la republica ?, Choice A Procurador B Presidente C Alcalde D Diputado
+B
+Pregunta 7 En que año fue la independencia efimera ?, Choice A 1821 B 1844 C 1715 D 1512
 A
-Question 11, Choice A B C D
-B
-Question 12, Choice A B C D
-D
-Question 13, Choice A B C D
-C
-Question 14, Choice A B C D
-B
-Question 15, Choice A B C D
-D
-Question 16, Choice A B C D
-C
